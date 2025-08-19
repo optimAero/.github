@@ -3,7 +3,7 @@
 </p>
 
 # Who we are
-An aerobotics design, build, and test house founded in 2018. We work out of a 4,800 sq ft hangar in Tehachapi, CA. The team is led by two Aerospace PhDs from Georgia Tech and is supported by a team of engineers with PhDs, MSs, and years of on-the-job and hobby experience. We combine our passion for flight with our skills in engineering to give our projects the best chance of success.
+An aerobotics design, build, and test house founded in 2018. We work out of a 4,800 sq ft hangar in Tehachapi, CA. The team is led by two Aerospace PhDs from Georgia Tech and is supported by a team of engineers with PhDs, MSs, and years of on-the-job and hobby experience. We combine our passion for flight with our skills in engineering to give our projects the best chance of success. Please check out our [website](https://optim.aero/) or [contact us](mailto:info@optim.aero).
 
 # What we do
 <strong>Core Competencies</strong> 
