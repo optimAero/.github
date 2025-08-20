@@ -10,6 +10,7 @@ An aerobotics design, build, and test house founded in 2018. We work out of a 4,
 - Guidance, Navigation, & Control (GNC), System Identification 
 -	Autopilot and Ground Control Station (GCS) development
 -	Modeling and Simulation (flight dynamics, HITL/SITL, avionics)
+- 6 DOF Simulink-based PX4 and Ardupilot SITL Simulation
 -	UAS sizing and design from the ground up, prototyping, and flight testing primarily VTOL aircraft
 -	Automation, beyond-waypoint guidance, GPS-denied flight
 -	Multidisciplinary Optimization (MDO)
