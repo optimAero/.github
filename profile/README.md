@@ -3,14 +3,14 @@
 </p>
 
 # Who we are
-An aerobotics design, build, and test house founded in 2018. We work out of a 4,800 sq ft hangar in Tehachapi, CA. The team is led by two Aerospace PhDs from Georgia Tech and is supported by a team of engineers with PhDs, MSs, and years of on-the-job and hobby experience. We combine our passion for flight with our skills in engineering to give our projects the best chance of success. Please check out our [website](https://optim.aero/) or [contact us](mailto:info@optim.aero).
+We are an aerobotics design, build, and test house founded in 2018 and based in Tehachapi, CA. Our team is led by three Aerospace PhDs from Georgia Tech, supported by engineers with advanced degrees and extensive hands-on experience. We combine a passion for flight with deep technical expertise to deliver successful outcomes. We provide consulting services in Guidance, Navigation & Control (GNC), UAS modeling and simulation, control algorithm development, system identification, and the capabilities listed below. Please check out our [website](https://optim.aero/) or [contact us](mailto:info@optim.aero).
 
 # What we do
 <strong>Core Competencies</strong> 
 - Guidance, Navigation, & Control (GNC), System Identification 
 -	Autopilot and Ground Control Station (GCS) development
 -	Modeling and Simulation (flight dynamics, HITL/SITL, avionics)
-- 6 DOF Simulink-based PX4 and Ardupilot SITL Simulation
+- 6-DOF Simulink-based PX4 and Ardupilot SITL Simulation
 -	UAS sizing and design from the ground up, prototyping, and flight testing primarily VTOL aircraft
 -	Automation, beyond-waypoint guidance, GPS-denied flight
 -	Multidisciplinary Optimization (MDO)
@@ -32,6 +32,9 @@ An aerobotics design, build, and test house founded in 2018. We work out of a 4,
 -	Machining: milling, lathing, metal, wood, plastics, composites, Al/steel welding (TIG/MIG/MMA)
 -	Teaming for proposals (BAA, SBIR, STTR, other grants)
 -	Flight test support for manned and unmanned aircraft 
-Trusted by
 
+# Trusted by
+
+We’ve provided engineering and flight test support for organizations across aerospace and defense, from startups to established primes. 
+<img width="1050" height="134" alt="image" src="https://github.com/user-attachments/assets/77446d83-347f-4586-9597-a9fdc0224177" />
 
