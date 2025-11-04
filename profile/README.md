@@ -35,6 +35,6 @@ We are an aerobotics design, build, and test house founded in 2018 and based in 
 
 # Trusted by
 
-We’ve provided engineering and flight test support for organizations across aerospace and defense, from startups to established primes. 
-<img width="1050" height="134" alt="image" src="https://github.com/user-attachments/assets/77446d83-347f-4586-9597-a9fdc0224177" />
+We’ve provided engineering and flight test support for organizations across the aerospace and defense industries, from startups to established primes. 
+<img width="1050" height="190" alt="image" src="https://github.com/user-attachments/assets/e250aeb7-41cf-4730-8e7d-b270b6bc6d72" />
 
